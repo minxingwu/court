@@ -1,0 +1,530 @@
+2024-01-22 15:20:13: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 15:36:55: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:19:27: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:22:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:33:54: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:43:57: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:44:38: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:46:45: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 16:53:54: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:02:35: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:46:42: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:47:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:51:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:51:39: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 18:51:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 19:09:35: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 19:43:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 19:54:39: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 20:20:21: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 20:37:53: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 21:07:32: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-22 21:17:36: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 05:34:54: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 08:43:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:06:43: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:12:23: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:20:46: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:26:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:48:49: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:49:46: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 09:51:17: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 10:16:52: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 10:24:49: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 10:39:42: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 11:22:23: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 11:36:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 11:52:40: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 12:03:25: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 12:07:16: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 14:17:44: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 14:39:37: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 15:06:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 15:18:45: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 15:29:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 15:43:08: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 16:04:44: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 16:25:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 16:42:59: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 16:43:43: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:02:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:02:51: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:14:46: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:23:51: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:32:59: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 17:58:27: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:03:51: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:14:06: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:16:36: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:18:55: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:33:44: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:37:20: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 18:48:41: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 19:00:40: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 19:01:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 19:39:58: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 19:42:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 20:04:18: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 20:41:01: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 20:50:00: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 21:08:38: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 21:43:39: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 21:50:53: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 21:58:34: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 22:07:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 22:18:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 22:27:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 22:35:26: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 23:05:48: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-23 23:11:10: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 08:36:49: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 08:37:34: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 08:42:37: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 09:02:30: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 09:10:10: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 09:21:03: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 09:30:28: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 10:22:07: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 10:31:20: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 10:47:08: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 10:54:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 11:32:00: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 11:57:49: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 11:58:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 13:55:43: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 14:08:46: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 14:09:30: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 14:21:37: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-01-24 14:36:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-07 18:43:21: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-08 20:08:37: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-08 20:29:32: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:26:07: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:33:18: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:42:04: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:47:32: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:50:06: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 18:51:11: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:04:04: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:29:45: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:32:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:34:48: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:44:56: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:49:58: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:52:22: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 19:58:10: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-10 20:03:27: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:08:16: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:09:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:14:26: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:16:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:20:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:20:30: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:30:24: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:39:58: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 07:50:20: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-11 08:00:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 07:26:36: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 07:36:00: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 07:45:59: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 07:52:35: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 07:54:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-12 08:14:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 14:12:24: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:30:30: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:38:35: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:39:59: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:41:10: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:17: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:32: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:36: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:40: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 15:42:48: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:01:46: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:02:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:04: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:19: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:21: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:24: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:27: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:04:35: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:06:40: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:07:35: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:08:45: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:15:50: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:18:30: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:33:22: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 16:33:50: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:34:14: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:34:43: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:36:26: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:36:58: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:37:27: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:37:36: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:38:15: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:38:42: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:38:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:38:59: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:39:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:39:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:39:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 17:39:17: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:07:00: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:07:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:08:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:08:11: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:08:51: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:09:54: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:24:44: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:29:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:38:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:44:38: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 18:48:33: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:00:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:03:17: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:06:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:11:15: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:18:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:26:06: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:41:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 19:57:53: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 20:05:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 20:14:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 20:22:18: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 22:10:00: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-13 22:10:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 18:45:48: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 18:46:20: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 18:51:24: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:00:44: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:10:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:18:16: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:24:52: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:31:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:32:29: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:38:39: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:48:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:57:26: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 19:59:06: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:06:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:10:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:17:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:25:06: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:25:30: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:27:22: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:35:31: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:46:57: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-14 20:50:52: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 09:37:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 09:38:49: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 09:49:22: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 10:12:32: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 10:25:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 10:36:02: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 10:38:40: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 10:50:19: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:30:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:33:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:37:55: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:49:46: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:53:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 18:54:07: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:00:50: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:06:52: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:25:14: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:28:24: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:30:04: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 19:56:43: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 20:14:24: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 20:49:05: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-15 20:52:15: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-16 19:17:15: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-16 21:35:13: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 09:19:12: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 09:29:29: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 09:47:50: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 09:56:23: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:07:20: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:16:16: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:28:46: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:29:41: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:35:51: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:45:55: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 10:55:56: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 11:26:38: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 11:33:47: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 11:43:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-17 11:44:25: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:54:08: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:54:09: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:54:22: last_status:Freeing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:54:23: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:54:59: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:55:26: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
+2024-05-18 20:55:56: last_status:Playing ————> status:Playing
+[0, 0, 0, 0]
