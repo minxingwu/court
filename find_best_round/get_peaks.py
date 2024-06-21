@@ -1,42 +1,9 @@
 import argparse
-import numpy as np
 import os 
 from get_longest_clips import get_longest_clips
 from get_clips_x_y import read_clips_x_y
+from process_x_y import get_consecutive_value
 
-
-def get_consecutive_value(value,size,max_diff):
-    """
-    filter all the list which is sparse and contain outlier.
-
-    Args:
-        value(list[int]): the value to be filter
-        size(int): size of the filter
-        max_diff(int): the max value to detect outlier
-
-
-    Return:
-        list[int]
-    """
-    valid_value = []
-    # fliter to select the consecutive labeled frames.
-    # calculate the diff between two frames for filter size's frames.
-    for index in range(len(value)-size-1):
-        diffs = []
-        for i in range(size):
-            diffs.append(abs(value[index + i + 1] - value[index + i]))
-        
-        # the diff between two consecutive y value must inside certain range
-        valid = True
-        for diff in diffs:
-            if (diff > max_diff):
-                valid = False
-                break
-
-        if valid == True:
-            valid_value.append(value[index])
-
-    return valid_value
 
 
 def counting_peak(value):
@@ -72,7 +39,7 @@ def counting_peak(value):
     return count
 
 
-def get_rounds(x_ys):
+def get_clips_peaks(x_ys):
     """
     Args: 
         x_ys(dict): 
@@ -90,20 +57,24 @@ def get_rounds(x_ys):
 
     # distance to find outliter
     max_diff = 150
+
+    # distance to find outliter
+    min_diff = 5
+
     
-    # store the rounds of each clip
-    rounds = []
+    # store the y_s of each clip
+    clips = []
 
     for _, x_y in x_ys.items():
 
         y_values = x_y['Y'].tolist()
         valid_y = get_consecutive_value(y_values,frame,max_diff)
-        rounds.append(counting_peak(valid_y))
+        clips.append(counting_peak(valid_y))
 
-    return rounds
+    return clips
 
 
-def get_rounds_of_longest_clips(path, longest_coefficent=0.2, time_file_postfix = ".txt", x_y_file_posfix = "_tracknet.txt"):
+def get_peaks_of_longest_clips(path, longest_coefficent=0.2, time_file_postfix = ".txt", x_y_file_posfix = "_tracknet.txt"):
     """
     Get rounds number of the selected longest clips. the number of selected 
     clips in decide by the longest_coefficent. process the folder path to the file path.
@@ -133,7 +104,7 @@ def get_rounds_of_longest_clips(path, longest_coefficent=0.2, time_file_postfix 
     longest_clips = get_longest_clips(time_file,longest_coefficent)
     x_ys = read_clips_x_y(longest_clips,x_y_file)
 
-    rounds = get_rounds(x_ys)
+    rounds = get_clips_peaks(x_ys)
 
     scores = []
 
@@ -143,18 +114,18 @@ def get_rounds_of_longest_clips(path, longest_coefficent=0.2, time_file_postfix 
         scores.append(clip[3]/rounds[index])
         clip.append(scores[index])
 
-    print(f"{'clip_name': <40} {'round': <10}  {'speed_based_score': <40}")
+    print(f"{'clip_name': <40} {'round':<8} {'duration':<10} {'speed_based_score':<40}")
     for longest_clip in longest_clips:
-        print(f"{longest_clip[0]:<40} {longest_clip[-2]:<10} {longest_clip[-1]:.2f}")
+        print(f"{longest_clip[0]:<40} {longest_clip[-2]:<9}{longest_clip[-3]:<10} {longest_clip[-1]:.2f}")
     
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="calculate the rounds number of every clips inside a game")
     parser.add_argument("path", type=str, help="path to where the video and relative data are stored")
-    parser.add_argument("--longest_coefficent", type=float, default= 0.2 ,help="proportion of longests clips will be used to calculate rounds")
-    parser.add_argument("--time_file_postfix", type=str, default= ".txt",  help = "postfix to file store the start and end time of clip.")
-    parser.add_argument("--x_y_file_posfix", type=str, default= "_tracknet.txt",help = "postfix")
+    parser.add_argument("longest_coefficent", type=float, default= 1.0 ,help="proportion of longests clips will be used to calculate rounds")
+    parser.add_argument("time_file_postfix", type=str, default= ".txt",  help = "postfix to file store the start and end time of clip.")
+    parser.add_argument("x_y_file_posfix", type=str, default= "_tracknet.txt",help = "postfix")
     args = parser.parse_args()
    
     path = args.path
@@ -162,7 +133,7 @@ if __name__ == "__main__":
     time_file_postfix = args.time_file_postfix
     x_y_file_posfix = args.x_y_file_posfix
 
-    get_rounds_of_longest_clips(path, longest_coefficent, time_file_postfix, x_y_file_posfix)
+    get_peaks_of_longest_clips(path, longest_coefficent, time_file_postfix, x_y_file_posfix)
 
 
 

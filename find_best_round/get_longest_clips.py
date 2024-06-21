@@ -39,7 +39,6 @@ def get_longest_clips(time_file_path,longest_coefficent=0.2):
                 # Strip any whitespace characters and convert to integer
                 start_end_time.append(int(line.strip()))
 
-
         start_time = [start_end_time[i] for i in range(0, len(start_end_time),2)]
         end_time =  [start_end_time[i] for i in range(1, len(start_end_time),2)]
         duration = [end_time[i]- start_time[i] for i in range(0,len(end_time))]
@@ -74,9 +73,6 @@ def get_longest_clips(time_file_path,longest_coefficent=0.2):
             
     
         longest_indexes = int(longest_coefficent * len(duration_sorted_indices))
-
-
-
         # get last folder name 
         longest_clips = []
         dirname = os.path.dirname(time_file_path)
@@ -84,7 +80,7 @@ def get_longest_clips(time_file_path,longest_coefficent=0.2):
 
         
         for index in range(longest_indexes):
-            # duration_sorted_indices[index] is the index of long video
+            # duration_sorted_indices[index] is the index of longest video
             indexx = duration_sorted_indices[index]
             if(duration[indexx] > 150):
                 
