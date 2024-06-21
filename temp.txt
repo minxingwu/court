@@ -1,0 +1,21 @@
+fps, folder_path, record_clip_in_court_list, court_int_num, venue_id_num, uploader_clip_video_python_path , session_uuid, Court_Name , uploader_url, uploader_surroundings, cloudEnvId, event_timestamp
+
+cut_clip_in_court(fps, clip_output_video_path_dir, record_clip_in_court_list, court_int_num, venue_id_num, uploader_clip_video_python_path , session_uuid, Court_Name , uploader_url, uploader_surroundings, cloudEnvId, event_timestamp = int(time.time()* 1000))
+
+
+
+
+fps, folder_path, record_clip_in_court_list, court_int_num, venue_id_num, uploader_clip_video_python_path , session_uuid, Court_Name , uploader_url, uploader_surroundings, cloudEnvId, event_timestamp
+
+fps, clip_output_video_path_dir, record_clip_in_court_list, court_int_num, venue_id_num, uploader_clip_video_python_path , session_uuid, Court_Name , uploader_url, uploader_surroundings, cloudEnvId, event_timestamp = int(time.time()* 1000)
+
+
+fps=fps,folder_path=clip_output_video_path_dir,record_clip_in_court_list=record_clip_in_court_list,court_int_num=court_int_num,venue_id_num=venue_id_num,uploader_clip_video_python_path=uploader_clip_video_python_path,
+
+
+
+session_uuid = session_uuid,Court_Name=Court_Name,uploader_url=uploader_url,uploader_surroundings=uploader_surroundings,cloudEnvId=cloudEnvId
+
+
+
+fps=fps,folder_path=clip_output_video_path_dir,record_clip_in_court_list=record_clip_in_court_list,court_int_num=court_int_num,venue_id_num=venue_id_num,uploader_clip_video_python_path=uploader_clip_video_python_path,
